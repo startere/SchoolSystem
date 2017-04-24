@@ -1,0 +1,8 @@
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.CodeAnalysisLog.xml
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.lastcodeanalysissucceeded
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\CSharp\HQC2\High-Quality-Code-Part-2-master\Exam\Task\Exam\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
